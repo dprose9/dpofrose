@@ -4,7 +4,7 @@ document.getElementById("menuid").innerHTML = menudpr;
 
 const pics = document.querySelectorAll(".loadpic");
 
-async function picLoad() {
+async function picLoad(pic) {
 	const imgsrce = pic.src
 	
 	for (let i = 2; i <= 4096; i *= 2) {
