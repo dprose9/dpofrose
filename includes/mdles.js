@@ -2,7 +2,7 @@ const menudpr = await fetch("/includes/menu.dpr").then(r => r.text());
 
 document.getElementById("menuid").innerHTML = menudpr;
 
-const pic = document.getElementById("loadpic");
+const pic = document.querySelectorAll(".loadpic");
 
 async function picLoad() {
 	const imgsrce = pic.src
