@@ -14,7 +14,7 @@ async function picLoad(pic) {
 
 		await next.decode();
 		
-		await new Promise(resolve => setTimeout(resolve, 1000));
+		await new Promise(resolve => setTimeout(resolve, 77));
 		
 		pic.src = src;
 	}
