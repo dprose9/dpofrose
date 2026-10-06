@@ -1,4 +1,9 @@
+<hr>
 <p style="text-align: center">
+	<a href="/">
+		Home
+	</a>
+	&nbsp;|&nbsp;
 	<a href="/biography">
 		Biography
 	</a>
@@ -12,3 +17,4 @@
 	</a>
 	
 </p>
+<hr>
