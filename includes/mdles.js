@@ -2,8 +2,6 @@ const menudpr = await fetch("/includes/menu.dpr").then(r => r.text());
 
 document.getElementById("menuid").innerHTML = menudpr;
 
-const pic = document.querySelectorAll(".loadpic");
-
 async function picLoad() {
 	const imgsrce = pic.src
 	
@@ -22,4 +20,6 @@ async function picLoad() {
 	}
 }
 
-picLoad();
+const pics = document.querySelectorAll(".loadpic");
+
+pics.forEach(pic => {picLoad(pic);});
