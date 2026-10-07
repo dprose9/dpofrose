@@ -1,6 +1,8 @@
 const menudpr = await fetch("/includes/menu.dpr").then(r => r.text());
+const footerdpr = await fetch("/includes/footer.dpr").then(r => r.text());
 
 document.getElementById("menuid").innerHTML = menudpr;
+document.getElementById("footerid").innerHTML = footerdpr;
 
 async function picLoad(pic) {
 	const imgsrce = pic.src
