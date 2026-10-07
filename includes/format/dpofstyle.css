@@ -1,5 +1,7 @@
 body {
 	font-family:'Times New Roman', Times, serif;
+	color:#FFFFFF;
+	background-color:#000000;
 	
 }
 
@@ -32,4 +34,32 @@ table {
 	width: max-content;
 	margin: 0 auto;
 	border-collapse: collapse;
+}
+
+
+.menu {
+	text-align: center;
+	font-size: 24px;
+}
+
+.menu a:link {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.menu a:visited {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.menu a:hover{
+	color:#000000 !important;
+	text-decoration:none !important;
+	background-color:#AAAAAA !important;
+}
+
+.menu a:active{
+	color:#000000 !important;
+	text-decoration:none !important;
+	background-color:#FFFFFF !important;
 }
