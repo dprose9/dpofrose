@@ -5,6 +5,7 @@ body {
 
 .discogr {
 	text-align: center;
+	font-size: 32px;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 20px;
