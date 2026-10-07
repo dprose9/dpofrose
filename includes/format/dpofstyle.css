@@ -4,11 +4,15 @@ body {
 }
 
 .discogr {
-	width: 500px;
-	margin: 0;
 	text-align: center;
 	display: flex;
+	flex-wrap: wrap;
 	gap: 20px;
+}
+
+.discogr figure {
+    width: 250px;
+    margin: 0;
 }
 
 .discogr img {
