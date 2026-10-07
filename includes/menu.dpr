@@ -4,21 +4,13 @@
 	</h1>
 	<hr>
 	<div>
-		<a href="/">
-			Home
-		</a>
+		<a href="/">Home</a>
 		&nbsp;|&nbsp;
-		<a href="/biography">
-			Biography
-		</a>
+		<a href="/biography">Biography</a>
 		&nbsp;|&nbsp;
-		<a href="/discography">
-			Discography
-		</a>
+		<a href="/discography">Discography</a>
 		&nbsp;|&nbsp;
-		<a href="/store">
-			Store
-		</a>
+		<a href="/store">Store</a>
 		
 	</div>
 	<hr>
