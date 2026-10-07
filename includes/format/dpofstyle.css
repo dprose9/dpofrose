@@ -6,6 +6,7 @@ body {
 .discogr {
 	width: 250px;
 	margin: 3;
+	text-align: center;
 }
 
 .discogr img {
