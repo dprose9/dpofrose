@@ -3,18 +3,20 @@ body {
 	
 }
 
-figure {
-	width: fit-content;
+.discogr {
+	width: 250px;
+	margin: 0;
 }
 
-figure img {
+.discogr img {
 	display: block;
+	width: 100%;
+	height: auto;
 }
 
-figcaption {
-	max-width: 100%;
+.discogr figcaption {
+	width: 100%;
 }
-
 
 
 
