@@ -1,3 +1,6 @@
+<h1 style="text-align: center">
+	The Official D. P. of Rose Website
+</h1>
 <hr>
 <p style="text-align: center">
 	<a href="/">
