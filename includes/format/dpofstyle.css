@@ -1,0 +1,45 @@
+body {
+	font-family:'Times New Roman', Times, serif;
+	
+}
+
+figure {
+	width: fit-content;
+}
+
+figure img {
+	display: block;
+}
+
+figcaption {
+	max-width: 100%;
+}
+
+
+
+
+table {
+	width: max-content;
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+a:link {
+	color:#0000AA;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#AA0000;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#AA00AA !important;
+	text-decoration:none !important;
+}
+
+a:active{
+	color:#FF55FF !important;
+	text-decoration:none !important;
+}
