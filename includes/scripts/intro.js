@@ -69,6 +69,6 @@ setTimeout(() => {
 	intro.classList.add("fadeout");
 }, 2500);
 
-intro.addEventListener("transitionend", () => {
+setTimeout(() => {
 		intro.remove();
-});
+}, 3500);
