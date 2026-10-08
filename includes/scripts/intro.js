@@ -1,6 +1,6 @@
 const intro = document.getElementById("intro");
 
-if (window.location.hash === "#home")) {
+if (new URLSearchParams(window.location.search).has("home")) {
     intro.remove();
 } else {
 

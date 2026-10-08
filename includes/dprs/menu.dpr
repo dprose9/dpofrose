@@ -4,7 +4,7 @@
 	</h1>
 	<hr>
 	<div>
-		<a href="/#home">Home</a>
+		<a href="/?home">Home</a>
 		&nbsp;|&nbsp;
 		<a href="/biography">Biography</a>
 		&nbsp;|&nbsp;
