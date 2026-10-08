@@ -1,0 +1,13 @@
+/* Dance */
+
+#dance {
+	transform: rotate(0deg);
+}
+
+#dance.left {
+	transform: rotate(-45deg);
+}
+
+#dance.right {
+	transform: rotate(45deg);
+}
