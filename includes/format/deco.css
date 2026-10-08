@@ -5,9 +5,9 @@
 }
 
 #dance.left {
-	transform: rotate(-30deg);
+	transform: rotate(-15deg);
 }
 
 #dance.right {
-	transform: rotate(30deg);
+	transform: rotate(15deg);
 }
