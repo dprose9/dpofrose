@@ -4,7 +4,7 @@
 	position: fixed;
 	inset: 0;
 	background-color: #000000;
-	color: #FFFFFF;
+	color: #000000;
 	
 	display: flex;
 	justify-content: center;
@@ -12,7 +12,7 @@
 	
 	z-index: 9999;
 	opacity: 1;
-	transition: opacity 1s ease-in-out, color 75ms ease-in-out;
+	transition: opacity 1s ease-in-out, color 200ms ease-in-out;
 }
 
 #intro.black {
