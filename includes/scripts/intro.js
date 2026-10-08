@@ -71,10 +71,10 @@ if (new URLSearchParams(window.location.search).has("home")) {
 
 	setTimeout(() => {
 		intro.classList.add("fadeout");
-	}, 4000);
+	}, 3500);
 
 	setTimeout(() => {
 			intro.remove();
-	}, 5000);
+	}, 4500);
 
 }
