@@ -6,68 +6,68 @@ setTimeout(() => {
 
 setTimeout(() => {
 	intro.className = "dkblue";
-}, 125);
+}, 250);
 
 setTimeout(() => {
 	intro.className = "dktrqs";
-}, 125);
+}, 375);
 
 setTimeout(() => {
 	intro.className = "dkgreen";
-}, 125);
+}, 500);
 
 setTimeout(() => {
 	intro.className = "dkmgnta";
-}, 125);
+}, 625);
 
 setTimeout(() => {
 	intro.className = "dkred";
-}, 125);
+}, 750);
 
 setTimeout(() => {
 	intro.className = "brwn";
-}, 125);
+}, 875);
 
 setTimeout(() => {
 	intro.className = "ltgrey";
-}, 125);
+}, 1000);
 
 setTimeout(() => {
 	intro.className = "dkgrey";
-}, 125);
+}, 1125);
 
 setTimeout(() => {
 	intro.className = "ltblue";
-}, 125);
+}, 1250);
 
 setTimeout(() => {
 	intro.className = "lttrqs";
-}, 125);
+}, 1375);
 
 setTimeout(() => {
 	intro.className = "ltgreen";
-}, 125);
+}, 1500);
 
 setTimeout(() => {
 	intro.className = "ltmgnta";
-}, 125);
+}, 1625);
 
 setTimeout(() => {
 	intro.className = "ltred";
-}, 125);
+}, 1750);
 
 setTimeout(() => {
 	intro.className = "yellow";
-}, 125);
+}, 1875);
 
 setTimeout(() => {
 	intro.className = "white";
-}, 125);
+}, 2000);
 
 
 setTimeout(() => {
 	intro.classList.add("fadeout");
-}, 500);
+}, 2500);
 
 intro.addEventListener("transitionend", () => {
 		intro.remove();
