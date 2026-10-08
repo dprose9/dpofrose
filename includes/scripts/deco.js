@@ -2,7 +2,8 @@
 
 const dance = document.getElementById("dance");
 
-while (true) {
+setInterval(() => {
+
 	setTimeout(() => {
 		dance.className = "left";
 	}, 200);
@@ -10,4 +11,4 @@ while (true) {
 	setTimeout(() => {
 		dance.className = "right";
 	}, 400);
-}
+}, 400);
