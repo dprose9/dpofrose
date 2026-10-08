@@ -1,7 +1,9 @@
 #intro {
+	font-size: 64px;
+	
 	position: fixed;
 	inset: 0;
-	background: #000000;
+	background-color: #FFFFFF;
 	color: #FFFFFF;
 	
 	display: flex;
@@ -10,10 +12,98 @@
 	
 	z-index: 9999;
 	opacity: 1;
-	transition: opacity 1s ease;
+	transition: opacity 1s ease-in-out;
+	transition: color 10ms ease-in-out;
 }
 
-#intro.fade-out {
+#intro.black {
+	color: #000000;
+}
+
+#intro.dkblue {
+	color: #0000AA;
+}
+
+#intro.dktrqs {
+	color: #00AAAA;
+}
+
+#intro.dkgreen {
+	color: #00AA00;
+}
+
+#intro.dkmgnta {
+	color: #AA00AA;
+}
+
+#intro.dkred {
+	color: #AA0000;
+}
+
+#intro.brwn {
+	color: #AA5500;
+}
+
+#intro.ltgrey {
+	color: #AAAAAA;
+}
+
+#intro.dkgrey {
+	color: #555555;
+}
+
+#intro.ltblue {
+	color: #5555FF;
+}
+
+#intro.lttrqs {
+	color: #55FFFF;
+}
+
+#intro.ltgreen {
+	color: #55FF55;
+}
+
+#intro.ltmgnta {
+	color: #FF55FF;
+}
+
+#intro.ltred {
+	color: #FF5555;
+}
+
+#intro.yellow {
+	color: #FFFF55;
+}
+
+#intro.white {
+	color: #FFFFFF;
+}
+
+#intro.fadeout {
 	opacity: 0;
 	pointer-events; none;
 }
+
+
+/*
+DOS COLOR HEX CODE REFERENCE:
+	DARK COLORS:
+		BLACK:      #000000
+		DK-BLUE:    #0000AA
+		DK-TRQS:    #00AAAA
+		DK-GREEN:   #00AA00
+		DK-MGNTA:   #AA00AA
+		DK-RED:     #AA0000
+		ORNG/BRWN:  #AA5500
+		LT-GREY:    #AAAAAA
+	LIGHT COLORS:	
+		DK-GREY:    #555555
+		LT-BLUE:    #5555FF
+		LT-TRQS:    #55FFFF
+		LT-GREEN:   #55FF55
+		LT-MGNTA:   #FF55FF
+		LT-RED:     #FF5555
+		YELLOW:     #FFFF55
+		WHITE:      #FFFFFF
+*/
