@@ -1,6 +1,6 @@
 const intro = document.getElementById("intro");
 
-if (new URLSearchParams(window.location.search).has("straight")) {
+if (window.location.hash === "#home")) {
     intro.remove();
 } else {
 
