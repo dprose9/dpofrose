@@ -52,6 +52,15 @@ body {
 	margin: 0 auto;
 }
 
+.cover {
+	background-image: url(/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-1000.bmp);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	background-attachment: fixed;
+}
+
 .column {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
