@@ -75,6 +75,6 @@ if (new URLSearchParams(window.location.search).has("home")) {
 
 	setTimeout(() => {
 			intro.remove();
-	}, 4000);
+	}, 3500);
 
 }
