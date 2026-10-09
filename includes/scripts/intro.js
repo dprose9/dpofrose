@@ -6,75 +6,75 @@ if (new URLSearchParams(window.location.search).has("home")) {
 
 	setTimeout(() => {
 		intro.className = "black";
-	}, 200);
+	}, 150);
 
 	setTimeout(() => {
 		intro.className = "dkblue";
-	}, 400);
+	}, 300);
 
 	setTimeout(() => {
 		intro.className = "dktrqs";
-	}, 600);
+	}, 450);
 
 	setTimeout(() => {
 		intro.className = "dkgreen";
-	}, 800);
+	}, 600);
 
 	setTimeout(() => {
 		intro.className = "dkmgnta";
-	}, 1000);
+	}, 750);
 
 	setTimeout(() => {
 		intro.className = "dkred";
-	}, 1200);
+	}, 900);
 
 	setTimeout(() => {
 		intro.className = "brwn";
-	}, 1400);
+	}, 1050);
 
 	setTimeout(() => {
 		intro.className = "ltgrey";
-	}, 1600);
+	}, 1200);
 
 	setTimeout(() => {
 		intro.className = "dkgrey";
-	}, 1800);
+	}, 1350);
 
 	setTimeout(() => {
 		intro.className = "ltblue";
-	}, 2000);
+	}, 1500);
 
 	setTimeout(() => {
 		intro.className = "lttrqs";
-	}, 2200);
+	}, 1650);
 
 	setTimeout(() => {
 		intro.className = "ltgreen";
-	}, 2400);
+	}, 1800);
 
 	setTimeout(() => {
 		intro.className = "ltmgnta";
-	}, 2600);
+	}, 1950);
 
 	setTimeout(() => {
 		intro.className = "ltred";
-	}, 2800);
+	}, 2100);
 
 	setTimeout(() => {
 		intro.className = "yellow";
-	}, 3000);
+	}, 2250);
 
 	setTimeout(() => {
 		intro.className = "white";
-	}, 3200);
+	}, 2400);
 
 
 	setTimeout(() => {
 		intro.classList.add("fadeout");
-	}, 3500);
+	}, 3000);
 
 	setTimeout(() => {
 			intro.remove();
-	}, 4500);
+	}, 4000);
 
 }
