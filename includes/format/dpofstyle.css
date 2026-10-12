@@ -59,6 +59,8 @@ body {
 	background-repeat: no-repeat;
 	min-height: 100vh;
 	background-attachment: fixed;
+	filter: blur(10px);
+	z-index: -1;
 }
 
 .column {
