@@ -2,7 +2,7 @@ const intro = document.getElementById("intro");
 const orign = new URL(document.referrer).hostname;
 const mainp = window.location.hostname;
 
-if (orign === mainp)) {
+if (orign === mainp) {
     intro.remove();
 } else {
 
