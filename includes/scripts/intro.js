@@ -1,6 +1,8 @@
 const intro = document.getElementById("intro");
+const orign = new URL(document.referrer).hostname;
+const mainp = window.location.hostname;
 
-if (new URLSearchParams(window.location.search).has("home")) {
+if (orign === mainp)) {
     intro.remove();
 } else {
 
