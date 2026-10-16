@@ -1,12 +1,12 @@
 const images = [
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0001.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0002.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0004.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0008.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0010.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0020.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0040.bmp"
-	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0080.bmp"
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0001.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0002.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0004.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0008.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0010.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0020.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0040.bmp",
+	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0080.bmp",
 	"/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0100.bmp"
 ];
 
