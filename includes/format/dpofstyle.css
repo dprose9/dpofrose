@@ -16,25 +16,11 @@ body {
 
 .slides {
 	display: flex;
-	width: max-content;
-	animation: glide 20s linear infinite;
 }
 
 .slides img {
 	width: 100px;
 	height: auto;
-	object-fit: cover;
-	flex-shrink: 0;
-}
-
-@keyframes glide {
-	from {
-		transform: translateX(0);
-	}
-	
-	to {
-		transform: translateX(-50%);
-	}
 }
 
 .discogr {
