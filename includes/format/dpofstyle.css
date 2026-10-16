@@ -6,20 +6,31 @@ body {
 }
 
 .carousel {
+	width: 100%;
+	overflow: hidden;
+}
+
+.slides {
 	display: flex;
-	align-items: center;
-	justify-content: center;
-	gap: 15px;
+	width: max-content;
+	animation: glide 20s linear infinite;
 }
 
-.carousel img {
+.slides img {
 	width: 100px;
-	max-width: 80%;
 	height: auto;
+	object-fit: cover;
+	flex-shrink: 0;
 }
 
-.carousel button {
-	cursor: pointer;
+@keyframes glide {
+	from {
+		transform: translateX(0);
+	}
+	
+	to {
+		transform: translateX(-50%);
+	}
 }
 
 .discogr {
