@@ -1,5 +1,9 @@
 const intro = document.getElementById("intro");
-const orign = new URL(document.referrer).hostname;
+const orign = document.referrer;
+	? new URL(document.referrer).hostname;
+	: "";
+
+
 const mainp = window.location.hostname;
 
 if (orign === mainp) {
@@ -8,75 +12,75 @@ if (orign === mainp) {
 
 	setTimeout(() => {
 		intro.className = "black";
-	}, 150);
+	}, 100);
 
 	setTimeout(() => {
 		intro.className = "dkblue";
-	}, 300);
+	}, 200);
 
 	setTimeout(() => {
 		intro.className = "dktrqs";
-	}, 450);
+	}, 300);
 
 	setTimeout(() => {
 		intro.className = "dkgreen";
-	}, 600);
+	}, 400);
 
 	setTimeout(() => {
 		intro.className = "dkmgnta";
-	}, 750);
+	}, 500);
 
 	setTimeout(() => {
 		intro.className = "dkred";
-	}, 900);
+	}, 600);
 
 	setTimeout(() => {
 		intro.className = "brwn";
-	}, 1050);
+	}, 700);
 
 	setTimeout(() => {
 		intro.className = "ltgrey";
-	}, 1200);
+	}, 800);
 
 	setTimeout(() => {
 		intro.className = "dkgrey";
-	}, 1350);
+	}, 900);
 
 	setTimeout(() => {
 		intro.className = "ltblue";
-	}, 1500);
+	}, 1000);
 
 	setTimeout(() => {
 		intro.className = "lttrqs";
-	}, 1650);
+	}, 1100);
 
 	setTimeout(() => {
 		intro.className = "ltgreen";
-	}, 1800);
+	}, 1200);
 
 	setTimeout(() => {
 		intro.className = "ltmgnta";
-	}, 1950);
+	}, 1300);
 
 	setTimeout(() => {
 		intro.className = "ltred";
-	}, 2100);
+	}, 1400);
 
 	setTimeout(() => {
 		intro.className = "yellow";
-	}, 2250);
+	}, 1500);
 
 	setTimeout(() => {
 		intro.className = "white";
-	}, 2400);
+	}, 1600);
 
 
 	setTimeout(() => {
 		intro.classList.add("fadeout");
-	}, 3000);
+	}, 2000);
 
 	setTimeout(() => {
 			intro.remove();
-	}, 3500);
+	}, 3000);
 
 }
