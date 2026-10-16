@@ -10,12 +10,9 @@ body {
 	flex-wrap: nowrap;
 	gap: 20px;
 	justify-content: center;
+	position: absolute;
 	width: 100%;
 	overflow: hidden;
-}
-
-.slides {
-	display: flex;
 }
 
 .slides img {
