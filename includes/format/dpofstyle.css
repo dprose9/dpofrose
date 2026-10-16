@@ -17,7 +17,7 @@ body {
 .slides {
 	display: flex;
 	width: max-content;
-	animation: glide 20s linear forward;
+	animation: glide 20s linear infinite;
 }
 
 .slides img {
