@@ -1,6 +1,6 @@
 const intro = document.getElementById("intro");
-const orign = document.referrer;
-	? new URL(document.referrer).hostname;
+const orign = document.referrer
+	? new URL(document.referrer).hostname
 	: "";
 
 
