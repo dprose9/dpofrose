@@ -10,13 +10,13 @@ body {
 	overflow: hidden;
 }
 
-.slides {
+#slides {
 	display: flex;
 	width: max-content;
 	animation: glide 20s linear forward;
 }
 
-.slides img {
+#slides img {
 	width: 100px;
 	height: auto;
 	object-fit: cover;
