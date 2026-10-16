@@ -5,6 +5,23 @@ body {
 	
 }
 
+.carousel {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 15px;
+}
+
+.carousel img {
+	width: 100px;
+	max-width: 80%;
+	height: auto;
+}
+
+.carousel button {
+	cursor: pointer;
+}
+
 .discogr {
 	font-weight: bold;
 	color:#FFFFFF;
