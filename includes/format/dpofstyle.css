@@ -21,7 +21,7 @@ body {
 }
 
 .discogr figure {
-    width: 256px;
+    width: 250px;
     margin: 0;
 }
 
@@ -47,13 +47,12 @@ body {
 
 .album img {
 	display: block;
-	width: 512px;
+	width: 300px;
 	height: auto;
 	margin: 0 auto;
 }
 
 .cover {
-	background-image: url(/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-1000.bmp);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -143,7 +142,7 @@ footer a:active{
 
 .legal {
 	text-align: justify;
-	font-size: 18px;
+	font-size: 16px;
 	padding: 0 5%;
 }
 
