@@ -144,7 +144,7 @@ footer a:active{
 .legal p {
 	text-align: justify;
 	font-size: 18px;
-	padding: 0 5%;
+	padding: 0 10%;
 }
 
 .legal h1 {
@@ -160,11 +160,13 @@ footer a:active{
 .legal h3 {
 	text-align: left;
 	font-size: 1.5em;
+	padding: 0 5%;
 }
 
 .legal h4 {
 	text-align: justify;
 	font-size: 1em;
+	padding: 0 10%;
 }
 
 .legal h5 {
