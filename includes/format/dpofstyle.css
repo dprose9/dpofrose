@@ -147,8 +147,9 @@ footer a:active{
 	padding: 0 5%;
 }
 
-.legal lol {
+.legal my-tab {
 	padding: 0 5%;
+	display: block;
 }
 
 .legal p {
