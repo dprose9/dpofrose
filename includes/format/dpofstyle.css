@@ -176,7 +176,9 @@ footer a:active{
 }
 
 .legal h5 {
-	font-size: 0.75em;
+	text-align: justify;
+	font-size: 1em;
+	font-weight: normal;
 }
 
 .legal h6 {
