@@ -1,6 +1,6 @@
 <nav class="menu">
 	<h1>
-		The Official D. P. of Rose Website
+		<a href="/">The Official D. P. of Rose Website<a>
 	</h1>
 	<hr>
 	<div>

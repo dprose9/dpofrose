@@ -2,6 +2,7 @@ body {
 	font-family:'Times New Roman', Times, serif;
 	color:#FFFFFF;
 	background-color:#000000;
+	font-size: 16px;
 	
 }
 
@@ -149,6 +150,8 @@ a:active{
 .menu h1 {
 	font-size: min(6vw, 2em);
 	white-space: nowrap;
+	color:#FFFFFF !important;
+	background-color:#000000 !important;
 }
 
 .menu a:link {
