@@ -128,16 +128,6 @@ a:active{
 	}
 }
 
-
-
-
-
-table {
-	width: max-content;
-	margin: 0 auto;
-	border-collapse: collapse;
-}
-
 #menuid {
 	position: sticky;
 	top: 0;
