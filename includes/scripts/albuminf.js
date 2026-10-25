@@ -1,6 +1,6 @@
 const lyrics = await fetch("lyrics").then(r => r.text());
 const credits = await fetch("credits").then(r => r.text());
 
-function lyricsFunc() {
+window.lyricsFunc = function() {
 	document.getElementById("albinfo").innerHTML = lyrics;
 }
