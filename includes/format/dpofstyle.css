@@ -88,12 +88,15 @@ a:active{
 
 
 .album {
+	font-size: 16px;
 	color:#FFFFFF;
 }
 
 .album h2 {
+	white-space: nowrap;
 	font-weight: bold;
 	text-align: center;
+	font-size: min(2vw, 2em);
 }
 
 .album img {
@@ -101,6 +104,10 @@ a:active{
 	width: 300px;
 	height: auto;
 	margin: 0 auto;
+}
+
+.album button {
+	
 }
 
 .cover {
@@ -136,11 +143,11 @@ a:active{
 }
 .menu {
 	text-align: center;
-	font-size: 24px;
+	font-size: min(3vw, 24px);
 }
 
 .menu h1 {
-	font-size: min(3vw, 32px);
+	font-size: min(6vw, 2em);
 	white-space: nowrap;
 }
 
