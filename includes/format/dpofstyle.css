@@ -147,7 +147,8 @@ a:active{
 	font-size: min(3vw, 24px);
 }
 
-.menu h1 {
+.menu h1,
+h1 a {
 	font-size: min(6vw, 2em);
 	white-space: nowrap;
 	color:#FFFFFF !important;
