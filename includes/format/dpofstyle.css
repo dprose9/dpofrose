@@ -51,10 +51,14 @@ a:active{
 	text-decoration: none;
 }
 
-.page section {
+.page figure {
 	border: 2px solid #FFFFFF;
 	margin: 0 2%;
 	padding: 0 2%;
+}
+
+.page section {
+	margin: 0 5%;
 }
 
 .discogr {
