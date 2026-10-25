@@ -121,11 +121,11 @@ a:active{
 }
 
 .album button:hover {
-	background-color: #AAAAAA;
+	background-color: #555555;
 }
 
 .album button:active {
-	background-color: #555555;
+	background-color: #AAAAAA;
 }
 
 .cover {
