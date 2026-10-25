@@ -139,6 +139,11 @@ a:active{
 	font-size: 24px;
 }
 
+.menu h1 {
+	font-size: min(3vw, 32px);
+	white-space: nowrap;
+}
+
 .menu a:link {
 	color:#FFFFFF;
 	text-decoration:none;
