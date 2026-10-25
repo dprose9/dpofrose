@@ -93,7 +93,6 @@ a:active{
 
 
 .album {
-	font-size: 16px;
 	color:#FFFFFF;
 }
 
@@ -112,7 +111,21 @@ a:active{
 }
 
 .album button {
-	
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 2px solid #FFFFFF;
+	border-radius: 0px;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+}
+
+.album button:hover {
+	background-color: #AAAAAA;
+}
+
+.album button:active {
+	background-color: #555555;
 }
 
 .cover {
@@ -203,7 +216,6 @@ footer a:active{
 
 .legal {
 	text-align: justify;
-	font-size: 16px;
 	padding: 0 5%;
 }
 
