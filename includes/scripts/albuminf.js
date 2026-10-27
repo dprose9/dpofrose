@@ -2,7 +2,7 @@ let trk;
 let crd;
 let lyr;
 
-function trackFunc(num) {
+window.trackFunc = function(num) {
 	trk = num + "/track";
 	crd = num + "/credits";
 	lyr = num + "/lyrics";
