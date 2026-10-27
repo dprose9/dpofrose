@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+
+		<link rel="stylesheet" href="/includes/format/dpofstyle.css">
+		<script type="module" src="/includes/scripts/mdles.js" defer></script>
+		<title>D. P. of Rose | Urmom01</title>
+
+	</head>
+	<body>
+		<h1 id="demo" style="text-align: center"></h>
+
+		<script>
+			var countDownDate = new Date("Apr 30, 2027 23:59:59").getTime();
+
+			var x = setInterval(function() {
+
+				var now = new Date().getTime();
+
+				var distance = countDownDate - now;
+
+				var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+				var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+				var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+				
+				var sec = "Seconds";
+				var min = "Minutes";
+				var hr = "Hours";
+				var dy = "Days";
+				var isare = "Are";
+				
+				if (seconds == 1) {
+					sec = "Second";
+				}
+				
+				if (minutes == 1) {
+					min = "Minute";
+				}
+				
+				if (hours == 1) {
+					hr = "Hour";
+				}
+				
+				if (days == 1) {
+					dy = "Day";
+					isare = "Is";
+				}
+				var timeleft = "There " + isare + " " + days + " " + dy + ", " + hours + " " + hr + ", "
+				+ minutes + " " + min + ", & " + seconds + " " + sec + " Left!";
+				
+				var timetitle = days + ":" + hours + ":" + minutes + ":" + seconds
+				
+				document.getElementById("demo").innerHTML = timeleft;
+				
+				document.title = "D. P. of Rose | " + timetitle;
+
+				if (distance < 0) {
+					clearInterval(x);
+					document.getElementById("demo").innerHTML = 
+						`Urmom01`
+					document.title = "Urmom01";
+				}
+			}, 1000);
+		</script>
+		
+	</body>
+</html>

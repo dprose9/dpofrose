@@ -1,68 +1,52 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
-
 		<link rel="stylesheet" href="/includes/format/dpofstyle.css">
 		<script type="module" src="/includes/scripts/mdles.js" defer></script>
+		<script type="module" src="/includes/scripts/loadpic.js" defer></script>
+		<script type="module" src="/includes/scripts/albuminf.js" defer></script>
 		<title>D. P. of Rose | Urmom01</title>
-
-	</head>
-	<body>
-		<h1 id="demo" style="text-align: center"></h>
-
-		<script>
-			var countDownDate = new Date("Apr 30, 2027 23:59:59").getTime();
-
-			var x = setInterval(function() {
-
-				var now = new Date().getTime();
-
-				var distance = countDownDate - now;
-
-				var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-				var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-				var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-				
-				var sec = "Seconds";
-				var min = "Minutes";
-				var hr = "Hours";
-				var dy = "Days";
-				var isare = "Are";
-				
-				if (seconds == 1) {
-					sec = "Second";
-				}
-				
-				if (minutes == 1) {
-					min = "Minute";
-				}
-				
-				if (hours == 1) {
-					hr = "Hour";
-				}
-				
-				if (days == 1) {
-					dy = "Day";
-					isare = "Is";
-				}
-				var timeleft = "There " + isare + " " + days + " " + dy + ", " + hours + " " + hr + ", "
-				+ minutes + " " + min + ", & " + seconds + " " + sec + " Left!";
-				
-				var timetitle = days + ":" + hours + ":" + minutes + ":" + seconds
-				
-				document.getElementById("demo").innerHTML = timeleft;
-				
-				document.title = "D. P. of Rose | " + timetitle;
-
-				if (distance < 0) {
-					clearInterval(x);
-					document.getElementById("demo").innerHTML = 
-						`Urmom01`
-					document.title = "Urmom01";
-				}
-			}, 1000);
-		</script>
 		
+	</head>
+
+	<body>
+		<div>
+			<div id="menuid"></div>
+			
+			<main class="album">
+				<section class="cover" style="background-image: url(/includes/pics/albart/lp/urm1/pic-0001.png);">
+					<div class="blur">
+						<h2>Urmom01</h2>
+						<img class="loadpic" src="/includes/pics/albart/lp/urm1/pic-0001.png" alt="💿" loading="lazy">
+					</div>
+				</section>
+				<br>
+				<section class="column">
+					<div>
+						Ttrklst
+					</div>
+					<div>
+						<button type="button" onclick="creditsFunc()">Personel</button>
+						<button type="button" onclick="lyricsFunc()">Lyrics</button>
+						<div id="albinfo">
+							01 Music &amp; Words by David Parker Rose<br>
+							<br>
+							<br>
+							Performance Credits:<br>
+							<table>
+								<tr>
+									<td>01 Creds:&nbsp;&nbsp;</td><td>David Parker Rose</td>
+								</tr>
+							</table>
+							<br>
+							Produced by David Parker Rose<br>
+							<br>
+						</div>
+						
+					</div>
+				</section>
+			</main>
+		</div>
 	</body>
+	<div id="footerid"></div>
 </html>
