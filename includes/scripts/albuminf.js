@@ -5,7 +5,7 @@ window.trackFunc = async function(num) {
 	trk = num + "/track";
 	const track = await fetch(trk).then(r => r.text());
 	document.getElementById("trksel").innerHTML = track;
-	lyricsFunc(num);
+	creditsFunc(num);
 };
 
 
