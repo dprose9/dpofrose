@@ -115,7 +115,7 @@ a:active{
 	color: #FFFFFF;
 	border: 2px solid #FFFFFF;
 	border-radius: 0px;
-	font-size: inherit;
+	font-size: 2em;
 	font-family: inherit;
 	cursor: pointer;
 }
