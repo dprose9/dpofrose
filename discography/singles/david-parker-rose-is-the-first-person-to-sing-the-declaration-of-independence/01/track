@@ -1,0 +1,3 @@
+<button type="button" onclick="creditsFunc('01')">Personel</button>
+<button type="button" onclick="lyricsFunc('01')">Lyrics</button>
+<div id="albinfo"></div>
