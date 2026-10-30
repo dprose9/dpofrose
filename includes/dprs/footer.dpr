@@ -1,5 +1,5 @@
-<footer style="text-align:center">
+<footer>
 	<hr>
-	<img src="Instagram_Glyph_White.png" alt="Instagram"><br>
-	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a>
+	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
+	<img src="/includes/dprs/Instagram_Glyph_White.png" alt="Instagram">
 </footer>
