@@ -6,7 +6,7 @@
 	<div>
 		<a href="/">Home</a>
 		&nbsp;|&nbsp;
-		<a href="/biography">Biography</a>
+		<a href="/about">About</a>
 		&nbsp;|&nbsp;
 		<a href="/discography">Discography</a>
 		&nbsp;|&nbsp;
