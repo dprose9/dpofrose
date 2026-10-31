@@ -2,7 +2,7 @@
 	<hr>
 	
 	<a href="https://www.instagram.com/dpofrose" target="_blank" rel="noopener noreferrer">
-		<img src="/includes/dprs/Instagram_Glyph_White.png" alt="Instagram" width="32"><br>
+		<img src="/includes/dprs/Instagram_Glyph_White.png" alt="Instagram" width="24">
 	</a>
 	<a href="https://www.youtube.com/@D.P.ofRose" target="_blank" rel="noopener noreferrer">
 		<img src="/includes/dprs/yt_icon_white_digital.png" alt="Instagram" width="32"><br>
