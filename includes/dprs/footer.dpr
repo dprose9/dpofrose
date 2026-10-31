@@ -1,9 +1,6 @@
-<footer>
+<footerstyle="text-align: center">
 	<hr>
-	<span style="text-align: center">
-		<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
-	</span>
+	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
 	
-	Socials:&nbsp;&nbsp;
 	<img src="/includes/dprs/Instagram_Glyph_White.png" alt="Instagram" width="30">
 </footer>
