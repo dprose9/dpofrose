@@ -10,7 +10,7 @@
 		&nbsp;|&nbsp;
 		<a href="/discography">Discography</a>
 		&nbsp;|&nbsp;
-		<a href="/store">Store</a>
+		<a href="https://store.dpofrose.com">Store</a>
 		
 	</div>
 	<hr>
