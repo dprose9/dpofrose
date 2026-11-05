@@ -1,12 +1,19 @@
 <footer style="text-align: center">
 	<hr>
 	
-	<a href="https://www.instagram.com/dpofrose" target="_blank" rel="noopener noreferrer">
-		<img src="/includes/dprs/Instagram_Glyph_White.png" alt="Instagram" width="100">
-	</a>
 	<a href="https://www.youtube.com/@D.P.ofRose" target="_blank" rel="noopener noreferrer">
-		<img src="/includes/dprs/yt_icon_white_digital.png" alt="Instagram" width="100"><br>
+		YouTube
+	</a> | 
+	<a href="https://www.instagram.com/dpofrose" target="_blank" rel="noopener noreferrer">
+		Instagram
+	</a> | 
+	<a href="https://x.com/DPofRose" target="_blank" rel="noopener noreferrer">
+		X
+	</a> | 
+	<a href="https://bsky.app/profile/dpofrose.bsky.social" target="_blank" rel="noopener noreferrer">
+		Blue Sky
 	</a>
+	
 	<br>
 	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
 </footer>
