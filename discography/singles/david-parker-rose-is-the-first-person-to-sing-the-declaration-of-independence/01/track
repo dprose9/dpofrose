@@ -1,4 +1,5 @@
 <h3>
+	<button type="button" onclick="listenFunc('01')">Listen</button>
 	<button type="button" onclick="creditsFunc('01')">Personel</button>
 	<button type="button" onclick="lyricsFunc('01')">Lyrics</button>
 </h3>
