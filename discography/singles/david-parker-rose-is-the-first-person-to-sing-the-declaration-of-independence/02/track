@@ -1,0 +1,6 @@
+<h3>
+	<button type="button" onclick="listenFunc('02')">Listen</button>
+	<button type="button" onclick="creditsFunc('02')">Personel</button>
+	<button type="button" onclick="lyricsFunc('02')">Lyrics</button>
+</h3>
+<div id="albinfo"></div>
