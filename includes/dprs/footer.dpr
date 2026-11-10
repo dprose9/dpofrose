@@ -19,7 +19,7 @@
 	<a href="https://bsky.app/profile/dpofrose.bsky.social" target="_blank" rel="noopener noreferrer">
 		Blue Sky
 	</a> | 
-	<a href="https://www.tumblr.com/dpofrose?source=share" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.tumblr.com/dpofrose" target="_blank" rel="noopener noreferrer">
 		Tumblr
 	</a>
 	<br>
