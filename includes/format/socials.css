@@ -1,10 +1,10 @@
 .youtube a:link {
-	color:#AA0000;
+	color:#FF5555;
 	text-decoration: none;
 }
 
 .youtube a:visited {
-	color:#AA0000;
+	color:#FF5555;
 	text-decoration: none;
 }
 
@@ -23,44 +23,48 @@
 
 
 .instagram a:link {
-	color:#FFFFFF;
+	color:#FF55FF;
 	text-decoration: none;
 }
 
 .instagram a:visited {
-	color:#FFFFFF;
+	color:#FF55FF;
 	text-decoration: none;
 }
 
 .instagram a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #AA00AA;
 	text-decoration: none;
 }
 
 .instagram a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #FF55FF;
 	text-decoration: none;
 }
 
 
 
 .facebook a:link {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .facebook a:visited {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .facebook a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #0000AA;
 	text-decoration: none;
 }
 
 .facebook a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #5555FF;
 	text-decoration: none;
 }
 
@@ -77,12 +81,14 @@
 }
 
 .threads a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #555555;
 	text-decoration: none;
 }
 
 .threads a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #AAAAAA;
 	text-decoration: none;
 }
 
@@ -99,55 +105,61 @@
 }
 
 .x a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #555555;
 	text-decoration: none;
 }
 
 .x a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #AAAAAA;
 	text-decoration: none;
 }
 
 
 
 .bluesky a:link {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .bluesky a:visited {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .bluesky a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #0000AA;
 	text-decoration: none;
 }
 
 .bluesky a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #5555FF;
 	text-decoration: none;
 }
 
 
 
 .tumblr a:link {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .tumblr a:visited {
-	color:#FFFFFF;
+	color:#5555FF;
 	text-decoration: none;
 }
 
 .tumblr a:hover{
-	color:#AAAAAA;
+	color:#FFFFFF;
+	background-color: #0000AA;
 	text-decoration: none;
 }
 
 .tumblr a:active{
-	color:#555555;
+	color:#FFFFFF;
+	background-color: #5555FF;
 	text-decoration: none;
 }
