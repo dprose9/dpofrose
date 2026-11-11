@@ -21,7 +21,10 @@
 	</a> | 
 	<a href="https://www.tumblr.com/dpofrose" target="_blank" rel="noopener noreferrer">
 		Tumblr
-	</a>
+	</a> | 
+	<a href="https://discord.gg/3F4K4khexk" target="_blank" rel="noopener noreferrer">
+		Discord
+	</a> | 
 	<br>
 	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
 </footer>

@@ -163,3 +163,27 @@
 	background-color: #5555FF;
 	text-decoration: none;
 }
+
+
+
+.discord a:link {
+	color:#FF55FF;
+	text-decoration: none;
+}
+
+.discord a:visited {
+	color:#FF55FF;
+	text-decoration: none;
+}
+
+.discord a:hover{
+	color:#FFFFFF;
+	background-color: #AA00AA;
+	text-decoration: none;
+}
+
+.discord a:active{
+	color:#FFFFFF;
+	background-color: #FF55FF;
+	text-decoration: none;
+}
