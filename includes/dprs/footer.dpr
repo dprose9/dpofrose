@@ -24,7 +24,7 @@
 	</a> | 
 	<a href="https://discord.gg/3F4K4khexk" target="_blank" rel="noopener noreferrer">
 		Discord
-	</a> | 
+	</a>
 	<br>
 	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
 </footer>
