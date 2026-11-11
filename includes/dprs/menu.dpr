@@ -8,6 +8,8 @@
 		&nbsp;|&nbsp;
 		<a href="/about">About</a>
 		&nbsp;|&nbsp;
+		<a href="/socials">Socials</a>
+		&nbsp;|&nbsp;
 		<a href="/discography">Discography</a>
 		&nbsp;|&nbsp;
 		<a href="https://store.dpofrose.com">Store</a>
