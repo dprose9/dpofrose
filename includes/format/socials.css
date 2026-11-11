@@ -1,0 +1,153 @@
+.youtube a:link {
+	color:#AA0000;
+	text-decoration: none;
+}
+
+.youtube a:visited {
+	color:#AA0000;
+	text-decoration: none;
+}
+
+.youtube a:hover{
+	color:#FFFFFF;
+	background-color: #AA0000;
+	text-decoration: none;
+}
+
+.youtube a:active{
+	color:#FFFFFF;
+	background-color: #FF5555;
+	text-decoration: none;
+}
+
+
+
+.instagram a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.instagram a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.instagram a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.instagram a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+
+
+.facebook a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.facebook a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.facebook a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.facebook a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+
+
+.threads a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.threads a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.threads a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.threads a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+
+
+.x a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.x a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.x a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.x a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+
+
+.bluesky a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.bluesky a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.bluesky a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.bluesky a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+
+
+.tumblr a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.tumblr a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.tumblr a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+.tumblr a:active{
+	color:#555555;
+	text-decoration: none;
+}
