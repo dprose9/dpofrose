@@ -159,6 +159,12 @@ a:active{
 	gap: 20px;
 }
 
+.feedcolumn {
+	display: grid;
+	grid-template-columns: 100px 1fr;
+	gap: 20px;
+}
+
 @media (max-width: 600px) {
 	.column {
 		grid-template-columns: 1fr;
