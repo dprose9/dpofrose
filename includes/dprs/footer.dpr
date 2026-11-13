@@ -26,6 +26,10 @@
 		Discord
 	</a>
 	<br>
+	<a href="https://dpofrose.bandcamp.com/" target="_blank" rel="noopener noreferrer">
+		Bandcamp
+	</a>
+	<br>
 	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
 	<br>
 	<br>
