@@ -30,7 +30,7 @@
 		Bandcamp
 	</a>
 	<br>
-	<a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a><br>
+	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | <a href="https://www.dpofrose.com/privacy">Privacy Policy</a><br>
 	<br>
 	<br>
 </footer>

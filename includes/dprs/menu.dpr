@@ -1,16 +1,16 @@
 <nav class="menu">
 	<h1>
-		<a href="/">The Official D. P. of Rose Website<a>
+		<a href="https://www.dpofrose.com/">The Official D. P. of Rose Website<a>
 	</h1>
 	<hr>
 	<div>
-		<a href="/">Home</a>
+		<a href="https://www.dpofrose.com/">Home</a>
 		&nbsp;|&nbsp;
-		<a href="/about">About</a>
+		<a href="https://www.dpofrose.com/about">About</a>
 		&nbsp;|&nbsp;
-		<a href="/socials">Socials</a>
+		<a href="https://www.dpofrose.com/socials">Socials</a>
 		&nbsp;|&nbsp;
-		<a href="/discography">Discography</a>
+		<a href="https://www.dpofrose.com/discography">Discography</a>
 		&nbsp;|&nbsp;
 		<a href="https://store.dpofrose.com">Store</a>
 		
