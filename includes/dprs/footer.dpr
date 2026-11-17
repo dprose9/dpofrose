@@ -22,15 +22,26 @@
 	<a href="https://www.tumblr.com/dpofrose" target="_blank" rel="noopener noreferrer">
 		Tumblr
 	</a> | 
+	<a href="https://gist.com/u/DPofRose/cards" target="_blank" rel="noopener noreferrer">
+		Gist
+	</a> | 
 	<a href="https://discord.gg/3F4K4khexk" target="_blank" rel="noopener noreferrer">
 		Discord
 	</a>
 	<br>
+	
+	
 	<a href="https://dpofrose.bandcamp.com/" target="_blank" rel="noopener noreferrer">
 		Bandcamp
+	</a> | 
+	<a href="https://soundcloud.com/d-p-of-rose" target="_blank" rel="noopener noreferrer">
+		Soundcloud
 	</a>
 	<br>
-	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | <a href="https://www.dpofrose.com/privacy">Privacy Policy</a><br>
+	
+	
+	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | 
+	<a href="https://www.dpofrose.com/privacy">Privacy Policy</a><br>
 	<br>
 	<br>
 </footer>

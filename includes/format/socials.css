@@ -166,6 +166,31 @@
 
 
 
+.gist a:link {
+	color:#FFFF55;
+	text-decoration: none;
+}
+
+.gist a:visited {
+	color:#FFFF55;
+	text-decoration: none;
+}
+
+.gist a:hover{
+	color:#FFFFFF;
+	background-color: #AA5500;
+	text-decoration: none;
+}
+
+.gist a:active{
+	color:#FFFFFF;
+	background-color: #FFFF55;
+	text-decoration: none;
+}
+
+
+
+
 .discord a:link {
 	color:#FF55FF;
 	text-decoration: none;
@@ -185,5 +210,53 @@
 .discord a:active{
 	color:#FFFFFF;
 	background-color: #FF55FF;
+	text-decoration: none;
+}
+
+
+
+.bandcamp a:link {
+	color:#5555FF;
+	text-decoration: none;
+}
+
+.bandcamp a:visited {
+	color:#5555FF;
+	text-decoration: none;
+}
+
+.bandcamp a:hover{
+	color:#FFFFFF;
+	background-color: #0000AA;
+	text-decoration: none;
+}
+
+.bandcamp a:active{
+	color:#FFFFFF;
+	background-color: #5555FF;
+	text-decoration: none;
+}
+
+
+
+.soundcloud a:link {
+	color:#FFFF55;
+	text-decoration: none;
+}
+
+.soundcloud a:visited {
+	color:#FFFF55;
+	text-decoration: none;
+}
+
+.soundcloud a:hover{
+	color:#FFFFFF;
+	background-color: #AA5500;
+	text-decoration: none;
+}
+
+.soundcloud a:active{
+	color:#FFFFFF;
+	background-color: #FFFF55;
 	text-decoration: none;
 }
