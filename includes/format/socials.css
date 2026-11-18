@@ -1,20 +1,20 @@
-.youtube a:link {
-	color:#FF5555;
+.socred a:link {
+	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.youtube a:visited {
-	color:#FF5555;
+.socred a:visited {
+	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.youtube a:hover{
+.socred a:hover{
 	color:#FFFFFF;
 	background-color: #AA0000;
 	text-decoration: none;
 }
 
-.youtube a:active{
+.socred a:active{
 	color:#FFFFFF;
 	background-color: #FF5555;
 	text-decoration: none;
@@ -22,167 +22,23 @@
 
 
 
-.instagram a:link {
-	color:#FF55FF;
-	text-decoration: none;
-}
-
-.instagram a:visited {
-	color:#FF55FF;
-	text-decoration: none;
-}
-
-.instagram a:hover{
-	color:#FFFFFF;
-	background-color: #AA00AA;
-	text-decoration: none;
-}
-
-.instagram a:active{
-	color:#FFFFFF;
-	background-color: #FF55FF;
-	text-decoration: none;
-}
-
-
-
-.facebook a:link {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.facebook a:visited {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.facebook a:hover{
-	color:#FFFFFF;
-	background-color: #0000AA;
-	text-decoration: none;
-}
-
-.facebook a:active{
-	color:#FFFFFF;
-	background-color: #5555FF;
-	text-decoration: none;
-}
-
-
-
-.threads a:link {
+.socyel a:link {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.threads a:visited {
+.socyel a:visited {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.threads a:hover{
-	color:#FFFFFF;
-	background-color: #555555;
-	text-decoration: none;
-}
-
-.threads a:active{
-	color:#FFFFFF;
-	background-color: #AAAAAA;
-	text-decoration: none;
-}
-
-
-
-.x a:link {
-	color:#FFFFFF;
-	text-decoration: none;
-}
-
-.x a:visited {
-	color:#FFFFFF;
-	text-decoration: none;
-}
-
-.x a:hover{
-	color:#FFFFFF;
-	background-color: #555555;
-	text-decoration: none;
-}
-
-.x a:active{
-	color:#FFFFFF;
-	background-color: #AAAAAA;
-	text-decoration: none;
-}
-
-
-
-.bluesky a:link {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.bluesky a:visited {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.bluesky a:hover{
-	color:#FFFFFF;
-	background-color: #0000AA;
-	text-decoration: none;
-}
-
-.bluesky a:active{
-	color:#FFFFFF;
-	background-color: #5555FF;
-	text-decoration: none;
-}
-
-
-
-.tumblr a:link {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.tumblr a:visited {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.tumblr a:hover{
-	color:#FFFFFF;
-	background-color: #0000AA;
-	text-decoration: none;
-}
-
-.tumblr a:active{
-	color:#FFFFFF;
-	background-color: #5555FF;
-	text-decoration: none;
-}
-
-
-
-.gist a:link {
-	color:#FFFF55;
-	text-decoration: none;
-}
-
-.gist a:visited {
-	color:#FFFF55;
-	text-decoration: none;
-}
-
-.gist a:hover{
+.socyel a:hover{
 	color:#FFFFFF;
 	background-color: #AA5500;
 	text-decoration: none;
 }
 
-.gist a:active{
+.socyel a:active{
 	color:#FFFFFF;
 	background-color: #FFFF55;
 	text-decoration: none;
@@ -190,48 +46,23 @@
 
 
 
-
-.discord a:link {
-	color:#FF55FF;
-	text-decoration: none;
-}
-
-.discord a:visited {
-	color:#FF55FF;
-	text-decoration: none;
-}
-
-.discord a:hover{
+.socblu a:link {
 	color:#FFFFFF;
-	background-color: #AA00AA;
 	text-decoration: none;
 }
 
-.discord a:active{
+.socblu a:visited {
 	color:#FFFFFF;
-	background-color: #FF55FF;
 	text-decoration: none;
 }
 
-
-
-.bandcamp a:link {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.bandcamp a:visited {
-	color:#5555FF;
-	text-decoration: none;
-}
-
-.bandcamp a:hover{
+.socblu a:hover{
 	color:#FFFFFF;
 	background-color: #0000AA;
 	text-decoration: none;
 }
 
-.bandcamp a:active{
+.socblu a:active{
 	color:#FFFFFF;
 	background-color: #5555FF;
 	text-decoration: none;
@@ -239,24 +70,48 @@
 
 
 
-.soundcloud a:link {
-	color:#FFFF55;
-	text-decoration: none;
-}
-
-.soundcloud a:visited {
-	color:#FFFF55;
-	text-decoration: none;
-}
-
-.soundcloud a:hover{
+.socmag a:link {
 	color:#FFFFFF;
-	background-color: #AA5500;
 	text-decoration: none;
 }
 
-.soundcloud a:active{
+.socmag a:visited {
 	color:#FFFFFF;
-	background-color: #FFFF55;
+	text-decoration: none;
+}
+
+.socmag a:hover{
+	color:#FFFFFF;
+	background-color: #AA00AA;
+	text-decoration: none;
+}
+
+.socmag a:active{
+	color:#FFFFFF;
+	background-color: #FF55FF;
+	text-decoration: none;
+}
+
+
+
+.socgry a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgry a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgry a:hover{
+	color:#FFFFFF;
+	background-color: #555555;
+	text-decoration: none;
+}
+
+.socgry a:active{
+	color:#FFFFFF;
+	background-color: #AAAAAA;
 	text-decoration: none;
 }
