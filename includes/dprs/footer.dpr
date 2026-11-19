@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="https://www.dpofrose.com/includes/format/socials.css">
 <footer style="text-align: center">
+	<link rel="stylesheet" href="https://www.dpofrose.com/includes/format/socials.css">
 	<hr>
 	<button type="button" onclick="footerMenuFunc('streaming')">Streaming</button> | 
 	<button type="button" onclick="footerMenuFunc('socials')">Socials</button>
