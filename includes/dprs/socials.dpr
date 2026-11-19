@@ -1,6 +1,8 @@
-<a href="https://www.youtube.com/@D.P.ofRose" target="_blank" rel="noopener noreferrer">
-	YouTube
-</a> | 
+<span class="socred">
+	<a href="https://www.youtube.com/@D.P.ofRose" target="_blank" rel="noopener noreferrer">
+		YouTube
+	</a>
+</span> | 
 <a href="https://www.instagram.com/dpofrose" target="_blank" rel="noopener noreferrer">
 	Instagram
 </a> | 
