@@ -1,3 +1,4 @@
+<script type="module" src="https://www.dpofrose.com/includes/scripts/mdles.js" defer></script>
 <footer style="text-align: center">
 	<hr>
 	
