@@ -33,8 +33,3 @@
 		Tumblr
 	</a> | 
 </span>
-<span class="socmag">
-	<a href="https://discord.gg/3F4K4khexk" target="_blank" rel="noopener noreferrer">
-		Discord
-	</a>
-</span>
