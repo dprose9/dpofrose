@@ -42,7 +42,7 @@
 	<button type="button" onclick="footerMenuFunc('socials')">Socials</button>
 	<br>
 	<br>
-	<div class="footermenu"></div>
+	<div id="footermenu"></div>
 	<br>
 	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | 
 	<a href="https://www.dpofrose.com/privacy">Privacy Policy</a><br>
