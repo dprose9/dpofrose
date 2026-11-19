@@ -4,9 +4,10 @@
 	<button type="button" onclick="footerMenuFunc('streaming')">Streaming</button> | 
 	<button type="button" onclick="footerMenuFunc('socials')">Socials</button>
 	<br>
-	<div id="footermenu"><br></div>
+	<div id="footermenu"></div>
+	<br>
 	<a href="https://discord.gg/3F4K4khexk" target="_blank" rel="noopener noreferrer">
-		Join The Official D> P. of Rose Discord Server
+		Join The Official D. P. of Rose Discord Server
 	</a><br>
 	<br>
 	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | 
