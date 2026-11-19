@@ -6,30 +6,30 @@
 <span class="socmag">
 	<a href="https://www.instagram.com/dpofrose" target="_blank" rel="noopener noreferrer">
 		Instagram
-	</a> | 
-</span>
+	</a>
+</span> | 
 <span class="socblu">
 	<a href="https://www.facebook.com/d.p.of.rose" target="_blank" rel="noopener noreferrer">
 		Facebook
-	</a> | 
-</span>
+	</a>
+</span> | 
 <span class="socgry">
 	<a href="https://www.threads.com/@dpofrose" target="_blank" rel="noopener noreferrer">
 		Threads
-	</a> | 
-</span>
+	</a>
+</span> | 
 <span class="socgry">
 	<a href="https://x.com/DPofRose" target="_blank" rel="noopener noreferrer">
 		X
-	</a> | 
-</span>
+	</a>
+</span> | 
 <span class="socblu">
 	<a href="https://bsky.app/profile/dpofrose.bsky.social" target="_blank" rel="noopener noreferrer">
 		Blue Sky
-	</a> | 
-</span>
+	</a>
+</span> | 
 <span class="socblu">
 	<a href="https://www.tumblr.com/dpofrose" target="_blank" rel="noopener noreferrer">
 		Tumblr
-	</a> | 
-</span>
+	</a>
+</span> | 
