@@ -16,7 +16,7 @@ window.footerMenuFunc = async function(menu) {
 		document.getElementById("footermenu").innerHTML = streaming;
 	} else {
 		menu = "";
-		document.getElementById("footermenu").innerHTML = "";
+		document.getElementById("footermenu").innerHTML = "<br>";
 	}
 	openmenu = menu;
 };
