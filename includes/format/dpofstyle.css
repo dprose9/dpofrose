@@ -51,6 +51,24 @@ a:active{
 	text-decoration: none;
 }
 
+button {
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 0px solid #000000;
+	border-radius: 0px;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+}
+
+button:hover {
+	color: #AAAAAA;
+}
+
+button:active {
+	color: #555555;
+}
+
 .page figure {
 	border: 2px solid #FFFFFF;
 	margin: 0 2%;
