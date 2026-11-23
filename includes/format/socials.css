@@ -46,6 +46,54 @@
 
 
 
+.socgrn a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgrn a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgrn a:hover{
+	color:#000000;
+	background-color: #55FF55;
+	text-decoration: none;
+}
+
+.socgrn a:active{
+	color:#000000;
+	background-color: #00AA00;
+	text-decoration: none;
+}
+
+
+
+.soctrq a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctrq a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctrq a:hover{
+	color:#000000;
+	background-color: #55FFFF;
+	text-decoration: none;
+}
+
+.soctrq a:active{
+	color:#000000;
+	background-color: #00AAAA;
+	text-decoration: none;
+}
+
+
+
 .socblu a:link {
 	color:#FFFFFF;
 	text-decoration: none;

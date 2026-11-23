@@ -1,6 +1,33 @@
 <h4>Listen:</h4>
 <p>
-	<a href="https://dpofrose.bandcamp.com/track/the-declaration-of-independence" target="_blank" rel="noopener noreferrer">
-		Bandcamp
-	</a>
+	<span class="socgrn">
+		<a href="."><!-- target="_blank" rel="noopener noreferrer">-->
+			Spotify
+		</a>
+	</span><br>
+	<span class="socmag">
+		<a href="."><!-- target="_blank" rel="noopener noreferrer">-->
+			Apple Music
+		</a>
+	</span><br>
+	<span class="socred">
+		<a href="."><!-- target="_blank" rel="noopener noreferrer">-->
+			YouTube Music
+		</a>
+	</span><br>
+	<span class="socyel">
+		<a href="."> <!--target="_blank" rel="noopener noreferrer">-->
+			Soundcloud
+		</a>
+	</span><br>
+	<span class="socred">
+		<a href="https://www.youtube.com/watch?v=QVmEJMmI61A" target="_blank" rel="noopener noreferrer">
+			YouTube
+		</a>
+	</span><br>
+	<span class="socblu">
+		<a href="https://dpofrose.bandcamp.com/track/the-declaration-of-independence" target="_blank" rel="noopener noreferrer">
+			Bandcamp
+		</a>
+	</span><br>
 </p>
