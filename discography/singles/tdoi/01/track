@@ -1,8 +1,8 @@
 <style>
 	.butt01 button {
-		background-color: #555555;
-		color: #AAAAAA;
-		border: 2px solid #AAAAAA;
+		background-color: #555555 !important;
+		color: #AAAAAA !important;
+		border: 2px solid #AAAAAA !important;
 	}
 </style>
 <h3>The Declaration Of Independence</h3>
