@@ -39,6 +39,7 @@
 						<h2>David Parker Rose Is The First Person To Sing The Declaration Of Independence</h2>
 						<img class="loadpic" src="https://www.dpofrose.com/includes/pics/albart/sngl/dpritfptstdoi/dpritfptstdoi-0001.png" alt="💿" loading="lazy"><br>
 						<p style="text-align: center">
+							Listen:
 							<a href="https://dpofrose.bandcamp.com/album/david-parker-rose-is-the-first-person-to-sing-the-declaration-of-independence" target="_blank" rel="noopener noreferrer">
 								Pre-Order on Bandcamp
 							</a>
@@ -47,14 +48,27 @@
 				</section>
 				<br>
 				<br>
-				<section>
-					
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/FvcfJGk0eyI?si=vVy5eM_CQNMsfFtK" title="YouTube video player" 
-					frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-					referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
-
-					<div id="timer" style="text-align: center"></div>
-				<section>
+				<section class="column">
+					<div>
+						<h4>
+							Tracklist:<br>
+							<br>
+							01. <button type="button" onclick="trackFunc('01')">The Declaration Of Independence</button><br>
+							02. <button type="button" onclick="trackFunc('02')">An Obligatory 60 Seconds Of Silence</button><br>
+						</h4>
+					</div>
+					<div id="trksel">
+						<h3>The Declaration Of Independence</h3>
+						<h3>
+							<button type="button" onclick="listenFunc('01')">Listen</button>
+							<button type="button" onclick="creditsFunc('01')">Personel</button>
+							<button type="button" onclick="lyricsFunc('01')">Lyrics</button>
+						</h3>
+						<div id="albinfo">
+							<h4>Listen:</h4>
+						</div>
+					</div>
+				</section>
 				<br>
 				<br>
 			</main>
