@@ -1,3 +1,9 @@
+<style>
+	.butt01 button {
+		background-color: #555555;
+		color: #AAAAAA;
+	}
+</style>
 <h3>The Declaration Of Independence</h3>
 <h3>
 	<button type="button" onclick="listenFunc('01')">Listen</button>
