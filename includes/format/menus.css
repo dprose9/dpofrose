@@ -1,0 +1,93 @@
+#menuid {
+	position: sticky;
+	top: 0;
+	z-index: 1000;
+	background-color: #000000;
+}
+.menu {
+	text-align: center;
+	font-size: min(3vw, 24px);
+}
+
+.menu h1 {
+	margin-bottom: 0px;
+	font-size: min(3vw, 2em);
+	white-space: nowrap;
+}
+.menu h1 a {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu h1 a:hover {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu h1 a:active {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu h2 {
+	margin-top: 0px;
+	font-size: min(3vw, 0.75em);
+	white-space: nowrap;
+}
+
+.menu h2 a {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu h2 a:hover {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu h2 a:active {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+.menu a:link {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.menu a:visited {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.menu a:hover{
+	color:#000000;
+	text-decoration:none;
+	background-color:#AAAAAA;
+}
+
+.menu a:active{
+	color:#000000;
+	text-decoration:none;
+	background-color:#FFFFFF;
+}
+
+footer a:link {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+footer a:visited {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+footer a:hover{
+	color:#AAAAAA;
+	text-decoration:none;
+}
+
+footer a:active{
+	color:#555555;
+	text-decoration:none;
+}

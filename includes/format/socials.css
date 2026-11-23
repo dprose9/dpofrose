@@ -1,0 +1,336 @@
+.socred a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socred a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socred a:hover{
+	color:#000000;
+	background-color: #FF5555;
+	text-decoration: none;
+}
+
+.socred a:active{
+	color:#000000;
+	background-color: #AA0000;
+	text-decoration: none;
+}
+
+
+
+.socyel a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socyel a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socyel a:hover{
+	color:#000000;
+	background-color: #FFFF55;
+	text-decoration: none;
+}
+
+.socyel a:active{
+	color:#000000;
+	background-color: #AA5500;
+	text-decoration: none;
+}
+
+
+
+.socblu a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socblu a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socblu a:hover{
+	color:#000000;
+	background-color: #5555FF;
+	text-decoration: none;
+}
+
+.socblu a:active{
+	color:#000000;
+	background-color: #0000AA;
+	text-decoration: none;
+}
+
+
+
+.socmag a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socmag a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socmag a:hover{
+	color:#000000;
+	background-color: #FF55FF;
+	text-decoration: none;
+}
+
+.socmag a:active{
+	color:#000000;
+	background-color: #AA00AA;
+	text-decoration: none;
+}
+
+
+
+.socgry a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgry a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgry a:hover{
+	color:#000000;
+	background-color: #FFFFFF;
+	text-decoration: none;
+}
+
+.socgry a:active{
+	color:#000000;
+	background-color: #AAAAAA;
+	text-decoration: none;
+}
+
+
+
+
+
+.soctik a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctik a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctik a:hover{
+	animation: tikhov 1s steps(1, end) infinite alternate;
+	color:#000000;
+	text-decoration: none;
+}
+
+.soctik a:active{
+	animation: tikact 1s steps(1, end) infinite alternate;
+	color:#000000;
+	text-decoration: none;
+}
+
+@keyframes tikhov {
+	0%, 50% {
+		background-color: #55FFFF;
+	}
+	50%, 100% {
+		background-color: #FF55FF;
+	}
+}
+
+@keyframes tikact {
+	0%, 50% {
+		background-color: #00AAAA;
+	}
+	50%, 100% {
+		background-color: #AA00AA;
+	}
+}
+
+
+
+/*
+DOS COLOR HEX CODE REFERENCE: 
+	DARK COLORS:
+		BLACK:      #000000
+		DK-BLUE:    #0000AA
+		DK-TRQS:    #00AAAA
+		DK-GREEN:   #00AA00
+		DK-MGNTA:   #AA00AA
+		DK-RED:     #AA0000
+		ORNG/BRWN:  #AA5500
+		LT-GREY:    #AAAAAA
+	LIGHT COLORS:	
+		DK-GREY:    #555555
+		LT-BLUE:    #5555FF
+		LT-TRQS:    #55FFFF
+		LT-GREEN:   #55FF55
+		LT-MGNTA:   #FF55FF
+		LT-RED:     #FF5555
+		YELLOW:     #FFFF55
+		WHITE:      #FFFFFF
+*/
+
+
+.socredfoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socredfoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socredfoot a:hover{
+	color: #FF5555;
+	text-decoration: none;
+}
+
+.socredfoot a:active{
+	color: #AA0000;
+	text-decoration: none;
+}
+
+
+
+.socyelfoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socyelfoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socyelfoot a:hover{
+	color: #FFFF55;
+	text-decoration: none;
+}
+
+.socyelfoot a:active{
+	color: #AA5500;
+	text-decoration: none;
+}
+
+
+
+.socblufoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socblufoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socblufoot a:hover{
+	color: #5555FF;
+	text-decoration: none;
+}
+
+.socblufoot a:active{
+	color: #0000AA;
+	text-decoration: none;
+}
+
+
+
+.socmagfoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socmagfoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socmagfoot a:hover{
+	color: #FF55FF;
+	text-decoration: none;
+}
+
+.socmagfoot a:active{
+	color: #AA00AA;
+	text-decoration: none;
+}
+
+
+
+.socgryfoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgryfoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.socgryfoot a:hover{
+	color: #AAAAAA;
+	text-decoration: none;
+}
+
+.socgryfoot a:active{
+	color: #555555;
+	text-decoration: none;
+}
+
+
+
+
+
+.soctikfoot a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctikfoot a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.soctikfoot a:hover{
+	animation: tikhov 1s steps(1, end) infinite alternate;
+	text-decoration: none;
+}
+
+.soctikfoot a:active{
+	animation: tikact 1s steps(1, end) infinite alternate;
+	text-decoration: none;
+}
+
+@keyframes tikhov {
+	0%, 50% {
+		color: #55FFFF;
+	}
+	50%, 100% {
+		color: #FF55FF;
+	}
+}
+
+@keyframes tikact {
+	0%, 50% {
+		color: #00AAAA;
+	}
+	50%, 100% {
+		color: #AA00AA;
+	}
+}

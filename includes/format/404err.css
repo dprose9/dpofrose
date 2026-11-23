@@ -1,0 +1,112 @@
+.error a:link {
+	animation: errstill 8s linear infinite normal;
+	text-decoration: none;
+}
+
+.error a:visited {
+	animation: errstill 8s linear infinite normal;
+	text-decoration: none;
+}
+
+.error a:hover{
+	animation: errhov 8s linear infinite normal;
+	text-decoration: none;
+}
+
+.error a:active{
+	animation: none;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+@keyframes errstill {
+	0%, 12.5% {
+		color: #555555;
+	}
+	12.5%, 25% {
+		color: #5555FF;
+	}
+	25%, 37.5% {
+		color: #55FFFF;
+	}
+	37.5%, 50% {
+		color: #55FF55;
+	}
+	50%, 62.5% {
+		color: #FF55FF;
+	}
+	62.5%, 75% {
+		color: #FF5555;
+	}
+	75%, 87.5% {
+		color: #FFFF55;
+	}
+	87.5%, 100% {
+		color: #FFFFFF;
+	}
+	100% {
+		color: #555555;
+	}
+}
+
+@keyframes errhov {
+	0%, 12.5% {
+		color: #000000;
+		background-color: #FFFFFF;
+	}
+	12.5%, 25% {
+		color: #0000AA;
+		background-color: #FFFF55;
+	}
+	25%, 37.5% {
+		color: #00AAAA;
+		background-color: #FF5555;
+	}
+	37.5%, 50% {
+		color: #00AA00;
+		background-color: #FF55FF;
+	}
+	50%, 62.5% {
+		color: #AA00AA;
+		background-color: #55FF55;
+	}
+	62.5%, 75% {
+		color: #AA0000;
+		background-color: #55FFFF;
+	}
+	75%, 87.5% {
+		color: #AA5500;
+		background-color: #5555FF;
+	}
+	87.5%, 100% {
+		color: #AAAAAA;
+		background-color: #555555;
+	}
+	100% {
+		color: #000000;
+		background-color: #FFFFFF;
+	}
+}
+
+
+/*
+DOS COLOR HEX CODE REFERENCE: 
+	DARK COLORS:
+		BLACK:      #000000
+		DK-BLUE:    #0000AA
+		DK-TRQS:    #00AAAA
+		DK-GREEN:   #00AA00
+		DK-MGNTA:   #AA00AA
+		DK-RED:     #AA0000
+		ORNG/BRWN:  #AA5500
+		LT-GREY:    #AAAAAA
+	LIGHT COLORS:	
+		DK-GREY:    #555555
+		LT-BLUE:    #5555FF
+		LT-TRQS:    #55FFFF
+		LT-GREEN:   #55FF55
+		LT-MGNTA:   #FF55FF
+		LT-RED:     #FF5555
+		YELLOW:     #FFFF55
+		WHITE:      #FFFFFF
+*/

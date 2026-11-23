@@ -1,0 +1,254 @@
+body {
+	font-family:'Times New Roman', Times, serif;
+	color:#FFFFFF;
+	background-color:#000000;
+	font-size: 18px;
+	
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.75em;
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+h5 {
+	font-size: 1.25em;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+
+a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#AAAAAA;
+	text-decoration: none;
+}
+
+a:active{
+	color:#555555;
+	text-decoration: none;
+}
+
+button {
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 0px solid #000000;
+	border-radius: 0px;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+}
+
+button:hover {
+	color: #AAAAAA;
+}
+
+button:active {
+	color: #555555;
+}
+
+.page figure {
+	border: 2px solid #FFFFFF;
+	margin: 0 2%;
+	padding: 0 2%;
+}
+
+.page section {
+	margin: 0 5%;
+}
+
+.discogr {
+	font-weight: bold;
+	color:#FFFFFF;
+	text-align: center;
+	font-size: 1.2em;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.discogr a {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.discogr figure {
+    width: 250px;
+    margin: 0;
+}
+
+.discogr img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.discogr figcaption {
+	width: 100%;
+}
+
+
+.album {
+	margin: 0 5%;
+	color:#FFFFFF;
+}
+
+.album h2 {
+	white-space: nowrap;
+	font-weight: bold;
+	text-align: center;
+	font-size: min(2vw, 2em);
+}
+
+.album h3 {
+	font-weight: bold;
+	text-align: center;
+	font-size: min(2vw, 1.75em);
+}
+
+.album h4 {
+	font-weight: bold;
+	font-size: min(2vw, 1.5em);
+}
+
+.album img {
+	display: block;
+	width: 300px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.album button {
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 2px solid #FFFFFF;
+	border-radius: 0px;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+}
+
+.album button:hover {
+	background-color: #555555;
+}
+
+.album button:active {
+	background-color: #AAAAAA;
+}
+
+.cover {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.blur {
+	background-color: rgb(0 0 0 / 70%);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	padding: 30px;
+}
+
+.column {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 20px;
+}
+
+.feedcolumn {
+	display: grid;
+	grid-template-columns: 100px 1fr;
+	gap: 20px;
+}
+
+@media (max-width: 600px) {
+	.column {
+		grid-template-columns: 1fr;
+	}
+}
+
+.legal {
+	text-align: justify;
+	padding: 0 5%;
+}
+
+.legal my-tab {
+	padding: 0 5%;
+	display: block;
+}
+
+.legal p {
+	padding: 0 5%;
+}
+
+.legal h1 {
+	text-align: center;
+	font-size: 3em;
+}
+
+.legal h2 {
+	text-align: center;
+	font-size: 2em;
+}
+
+.legal h3 {
+	text-align: left;
+	font-size: 1.5em;
+}
+
+.legal h4 {
+	text-align: justify;
+	font-size: 1em;
+}
+
+.legal h5 {
+	text-align: justify;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+.legal h6 {
+	font-size: 0.5em;
+}
+
+.legal a:link {
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+.legal a:visited {
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+.legal a:hover{
+	color:#AAAAAA;
+	text-decoration:underline;
+}
+
+.legal a:active{
+	color:#555555;
+	text-decoration:underline;
+}
