@@ -16,7 +16,7 @@
 		&nbsp;|&nbsp;
 		<a href="https://www.dpofrose.com/discography">Discography</a>
 		&nbsp;|&nbsp;
-		<a href="https://store.dpofrose.com">Store</a>
+		<a href="https://store.dpofrose.com" target="_blank" rel="noopener noreferrer">Store</a>
 		
 	</div>
 	<hr>
