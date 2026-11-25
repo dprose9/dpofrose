@@ -277,44 +277,44 @@ DOS COLOR HEX CODE REFERENCE:
 
 
 
-.socgrn a:link {
+.socgrnfoot a:link {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.socgrn a:visited {
+.socgrnfoot a:visited {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.socgrn a:hover{
+.socgrnfoot a:hover{
 	color: #55FF55;
 	text-decoration: none;
 }
 
-.socgrn a:active{
+.socgrnfoot a:active{
 	color: #00AA00;
 	text-decoration: none;
 }
 
 
 
-.soctrq a:link {
+.soctrqfoot a:link {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.soctrq a:visited {
+.soctrqfoot a:visited {
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
-.soctrq a:hover{
+.soctrqfoot a:hover{
 	color: #55FFFF;
 	text-decoration: none;
 }
 
-.soctrq a:active{
+.soctrqfoot a:active{
 	color: #00AAAA;
 	text-decoration: none;
 }
