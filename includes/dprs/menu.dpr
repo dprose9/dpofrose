@@ -12,9 +12,9 @@
 		&nbsp;|&nbsp;
 		<a href="https://www.dpofrose.com/biography">Biography</a>
 		&nbsp;|&nbsp;
-		<a href="https://www.dpofrose.com/community">Community</a>
-		&nbsp;|&nbsp;
 		<a href="https://www.dpofrose.com/discography">Discography</a>
+		&nbsp;|&nbsp;
+		<a href="https://www.dpofrose.com/links">Links</a>
 		&nbsp;|&nbsp;
 		<a href="https://store.dpofrose.com" target="_blank" rel="noopener noreferrer">Store</a>
 		
