@@ -4,7 +4,7 @@
 		<a href="https://www.dpofrose.com/">The Official D. P. of Rose Website<a>
 	</h1>
 	<h2>
-		<a href="https://www.dpofrose.com/">Rockstar, Legacy Computing Fiend, &amp; Member Of The Church Of Jesus Christ Of Latter-Day <a>
+		<a href="https://www.dpofrose.com/">Rockstar, Legacy Computing Fiend, &amp; Member Of The Church Of Jesus Christ Of Latter-Day Saints<a>
 	</h2>
 	<hr>
 	<div>
