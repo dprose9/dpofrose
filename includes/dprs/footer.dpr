@@ -13,6 +13,12 @@
 		</a>
 	</span><br>
 	<br>
+	<span class="socyelfoot">
+		<a href="https://buymeahotchocolate.dpofrose.com" target="_blank" rel="noopener noreferrer">
+			Buy Me A Hot Chocolate
+		</a>
+	</span><br>
+	<br>
 	<a href="https://www.dpofrose.com/terms">Terms &amp; Conditions</a> | 
 	<a href="https://www.dpofrose.com/privacy">Privacy Policy</a><br>
 	<br>
