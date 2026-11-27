@@ -140,28 +140,64 @@ var x = setInterval(function() {
 
 	if (distance < 0) {
 		clearInterval(x);
-		document.getElementById("demo").innerHTML = 
+		document.getElementById("timer").innerHTML = 
 			`<section class="column">
 				<div>
 					<h4>
 						Tracklist:<br>
 						<br>
-						01. <button type="button" onclick="trackFunc('01')">The Declaration Of Independence</button><br>
-						02. <button type="button" onclick="trackFunc('02')">An Obligatory 60 Seconds Of Silence</button><br>
+						<span class="butt01">01. <button type="button" onclick="trackFunc('01')">The Declaration Of Independence</button></span><br>
+						<span class="butt02">02. <button type="button" onclick="trackFunc('02')">An Obligatory 60 Seconds Of Silence</button></span><br>
 					</h4>
 				</div>
-				<div id="trksel">
-					<h3>The Declaration Of Independence</h3>
-					<h3>
-						<button type="button" onclick="listenFunc('01')">Listen</button>
-						<button type="button" onclick="creditsFunc('01')">Personel</button>
-						<button type="button" onclick="lyricsFunc('01')">Lyrics</button>
-					</h3>
-					<div id="albinfo">
-						<h4>Listen:</h4>
-					</div>
-				</div>
+				<div id="trksel"><span style="font-weight: bold; text-align: center; font-size: min(2vw, 1.75em);">Click a song on the left for info!</span></div>
 			</section>`;
+			
 		document.title = "D. P. of Rose | David Parker Rose Is The First Person To Sing The Declaration Of Independence";
+		
+		document.getElementById("streamlinks").innerHTML =
+			`<p style="text-align: center">
+				Listen:&nbsp; 
+				<!--<span class="socgrnfoot">
+					<a href="." target="_blank" rel="noopener noreferrer">
+						Spotify
+					</a>
+				</span> | 
+				<span class="socmagfoot">
+					<a href="." target="_blank" rel="noopener noreferrer">
+						Apple Music
+					</a>
+				</span> | 
+				<span class="socredfoot">
+					<a href="." target="_blank" rel="noopener noreferrer">
+						YouTube Music
+					</a>
+				</span> | -->
+				<span class="socyelfoot">
+					<a href="https://soundcloud.com/d-p-of-rose/sets/david-parker-rose-is-the-first" target="_blank" rel="noopener noreferrer">
+						Soundcloud
+					</a>
+				</span> | 
+				<span class="socredfoot">
+					<a href="https://www.youtube.com/playlist?list=PLEAulHvlVuMQ" target="_blank" rel="noopener noreferrer">
+						YouTube
+					</a>
+				</span> | 
+				<span class="socmagfoot">
+					<a href="https://audius.co/DPofRose/album/david-parker-rose-is-the-first-person-to-sing-the-declaration-of-independence" target="_blank" rel="noopener noreferrer">
+						Audius
+					</a>
+				</span> | 
+				<span class="socyelfoot">
+					<a href="https://audiomack.com/dpofrose/album/david-parker-rose-is-the-first-person-to-sing-the-declaration-of-independen-1" target="_blank" rel="noopener noreferrer">
+						Audiomack
+					</a>
+				</span> | 
+				<span class="socblufoot">
+					<a href="https://dpofrose.bandcamp.com/album/david-parker-rose-is-the-first-person-to-sing-the-declaration-of-independence" target="_blank" rel="noopener noreferrer">
+						Bandcamp
+					</a>
+				</span>
+			</p>`;
 	}
 }, 1000);
